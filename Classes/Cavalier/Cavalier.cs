@@ -9,6 +9,10 @@ using BlueprintCore.Blueprints.CustomConfigurators.Classes.Selection;
 using Kingmaker.UnitLogic.Mechanics.Components;
 using Additional_Archetypes.Components;
 using BlueprintCore.Utils.Types;
+using Kingmaker.Designers.Mechanics.Facts;
+using Kingmaker.UnitLogic.Buffs.Blueprints;
+using Kingmaker.Blueprints;
+using Kingmaker.Blueprints.Facts;
 
 namespace Additional_Archetypes.Classes.Cavalier
 {
@@ -69,12 +73,14 @@ namespace Additional_Archetypes.Classes.Cavalier
 
         internal static void CreateCavalierOrderOfTheAxeChallengeFeature()
         {
+            BlueprintBuff Challenge = BlueprintTools.GetBlueprint<BlueprintBuff>("4f0218323ad379248b69de8a9501159f");
+
             CavalierOrderOfTheAxeChallengeFeature = FeatureConfigurator.New(CavalierOrderOfTheAxeChallengeFeatureName, CavalierOrderOfTheAxeChallengeFeatureGuid)
                 .SetDisplayName(CavalierOrderOfTheAxeChallengeFeatureDisplayName)
                 .SetDescription(CavalierOrderOfTheAxeChallengeFeatureDescription)
-                .AddComponent<DamageBonusOrderOfAxe>(c =>
+                .AddComponent<DamageBonusOrderOfCockatrice>(c =>
                 {
-                    c.BonusValue = ContextValues.Rank();
+                    c.m_CheckedFact = Challenge.ToReference<BlueprintUnitFactReference>();
                 })
                 .AddContextRankConfig(Helpers.CreateContextRankConfig(
                     baseValueType: ContextRankBaseValueType.ClassLevel,
