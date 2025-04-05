@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Additional_Archetypes",
+  "DisplayName": "Additional Archetypes",
+  "Author": "Grimbo",
+  "Version": "1.0.0",
+  "Dependencies": [ "TabletopTweaks-Core" ],
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "Additional_Archetypes.dll",
+  "EntryMethod": "Additional_Archetypes.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}

@@ -1,0 +1,166 @@
+[
+  {
+    "Key": "MutationTitanFighter.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutation Titan Fighter"
+  },
+
+  {
+    "Key": "MutationTitanFighter.Description",
+    "enGB": "To reach pinnacle of human strength mutation titan fighters relays both on extreme physical readiness and dangerous concoctions at cost of their mental and physical defenses."
+  },
+
+  {
+    "Key": "MutatedMobilityFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutated Mobility"
+  },
+
+  {
+    "Key": "MutatedMobilityFeature.Description",
+    "enGB": "A mutation titan fighter's physical ability allows him to add 1/4th of his class level to Mobility and Athletics checks."
+  },
+
+  {
+    "Key": "IncredibleHeftFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Incredible Heft"
+  },
+
+  {
+    "Key": "IncredibleHeftFeature.Description",
+    "enGB": "At 1st level and every 4 levels thereafter, a mutation titan fighter becomes more skilled at wielding a two-handed weapon in one hand and gains a +1 on attack and damage rolls when fighting this way."
+  },
+
+  {
+    "Key": "GiantWeaponWielderFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Giant Weapon Wielder"
+  },
+
+  {
+    "Key": "GiantWeaponWielderFeature.Description",
+    "enGB": "At 1st level, a mutation titan fighter learns to wield a two-handed melee weapon in one hand (except double weapons). It is treated as one-handed when determining the effects of the Power Attack feat, adding the Strength bonus on damage rolls, and for all other purposes. All special properties of the weapon are preserved. The titan fighter takes an additional –2 penalty on attack rolls when using a two-handed weapon in one hand."
+  },
+
+  {
+    "Key": "GiantsMightFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Giant's Might"
+  },
+
+  {
+    "Key": "GiantsMightFeature.Description",
+    "enGB": "At 10th level, while wielding a two-handed melee weapon in one hand, a mutation titan fighter adds 1.5 times his Strength modifier on weapon damage rolls."
+  },
+
+  {
+    "Key": "UnstoppableStrikeFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Unstoppable Strike"
+  },
+
+  {
+    "Key": "UnstoppableStrikeFeature.Description",
+    "enGB": "At 19th level, while wielding a two-handed melee weapon in one hand, a mutation titan fighter adds double his Strength modifier on weapon damage rolls."
+  },
+
+  {
+    "Key": "MutagenFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutagen"
+  },
+
+  {
+    "Key": "MutagenFeature.Description",
+    "enGB": "At 3rd level, a mutation titan fighter discovers how to create a mutagen that they can imbibe in order to heighten their physical prowess at the cost of their mental state. Mutation titan fighter mutagen functions as an alchemist’s mutagen and uses the fighter’s class level as their alchemist level for this ability (alchemist levels stack with fighter levels for determining the effect of this ability). A mutation titan fighter counts as an alchemist for the purpose of imbibing a mutagen prepared by someone else."
+  },
+
+  {
+    "Key": "MutagenDamageBonusBuff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutagen Damage Bonus"
+  },
+
+  {
+    "Key": "MutagenDamageBonusBuff.Description",
+    "enGB": "A mutation titan fighter gains a +2 bonus on damage rolls in melee combat while imbued by a mutagen. This bonus increases by 1 for every 5 character levels."
+  },
+
+  {
+    "Key": "MutagenDamageBonusFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutagen Damage Bonus"
+  },
+
+  {
+    "Key": "MutagenDamageBonusFeature.Description",
+    "enGB": "A mutation titan fighter gains a +2 bonus on damage rolls in melee combat while imbued by a mutagen. This bonus increases by 1 for every 5 character levels."
+  },
+
+  {
+    "Key": "MutatedArmBuff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutated Arm"
+  },
+
+  {
+    "Key": "MutatedArmBuff.Description",
+    "enGB": "A mutation titan fighter gains an additional attack with offhand weapons during duration of their mutagen if they are wielding a two handed weapon in their off hand. They gain additional attack with their offhand weapon every 20 BAB if they are wielding a two handed weapon in their off hand."
+  },
+
+  {
+    "Key": "MutatedArmFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutated Arm"
+  },
+
+  {
+    "Key": "MutatedArmFeature.Description",
+    "enGB": "A mutation titan fighter gains an additional attack with offhand weapons during duration of their mutagen if they are wielding a two handed weapon in their off hand. They gain additional attack with their offhand weapon every 20 BAB if they are wielding a two handed weapon in their off hand."
+  },
+
+  {
+    "Key": "MutationDiscoveryFeatureSelection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mutation Discovery"
+  },
+
+  {
+    "Key": "MutationDiscoveryFeatureSelection.Description",
+    "enGB": "At 7th, 11th, 15th level, a mutation titan fighter discovers one of the following alchemist discoveries: feral mutagen, feral wings, preserve organs, spontaneous healing, mutagen damage bonus."
+  },
+
+  {
+    "Key": "GrandMutationDiscoveryFeatureSelection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Grand Mutation Discovery"
+  },
+
+  {
+    "Key": "GrandMutationDiscoveryFeatureSelection.Description",
+    "enGB": "At 19th level, a mutation titan fighter makes a grand discovery and learns one of: greater mutaegn, mutated arm."
+  },
+
+  {
+    "Key": "CavalierOrderOfTheAxeChallengeFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Challenge"
+  },
+
+  {
+    "Key": "CavalierOrderOfTheAxeChallengeFeature.Description",
+    "enGB": "Whenever an order of the axe cavalier issues a challenge, he receives a +1 morale bonus on all melee damage rolls made against the target of his challenge as long as he is the only creature threatening the target. This bonus increases by +1 for every four levels the cavalier possesses."
+  },
+
+  {
+    "Key": "CavalierOrderOfTheAxeProgression.Name",
+    "ProcessTemplates": false,
+    "enGB": "Order of the Axe"
+  },
+
+  {
+    "Key": "CavalierOrderOfTheAxeProgression.Description",
+    "enGB": "A cavalier who belongs to this order serves to better himself in order to protect others from harm."
+  }
+]
