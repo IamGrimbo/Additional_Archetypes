@@ -31,5 +31,3 @@
   - At 8th level, whenever the cavalier makes a charge attack while mounted, he adds his mount's Strength modifier to the damage roll, in addition to his own. He also receives a bonus, chosen from the following list: Indomitable Mount, Mounted Combat, Mounted Shield, Spirited Charge, or Trample. He must qualify for the feat selected.
  - **Retribution**
    - At 15th level, the cavalier can take retribution on those who dare to strike an agent of his faith. Whenever an enemy makes a successful melee attack against the cavalier or an adjacent ally devoted to the same faith as the cavalier, the enemy provokes an attack of opportunity from the cavalier. The cavalier receives a +2 morale bonus on the attack of opportunity. If the attack made by the enemy was a critical hit, the cavalier may treat the enemy as the target of his challenge for the attack of opportunity. The cavalier can use this ability once per round.
-
-**Have Fun With The mod (:**
