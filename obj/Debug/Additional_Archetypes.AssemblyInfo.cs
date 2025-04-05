@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Additional Archetypes")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897dcba131bce1434803e6501fbaa15fa5a3fdf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Additional_Archetypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Additional_Archetypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
